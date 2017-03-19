@@ -1,4 +1,5 @@
 # Project Title 
 Website about rock band 
-## information 
+
+## Information 
 I use **HTML**, **CSS** and **JavaScript**
