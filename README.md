@@ -1,5 +1,5 @@
 # Project Title 
-Website about rock band 
+Website about my rock band 
 
 ## Information 
-I use **HTML**, **CSS** and **JavaScript**
+I will use **HTML**, **CSS** and **JavaScript**
